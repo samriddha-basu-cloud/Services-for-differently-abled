@@ -1,1 +1,22 @@
+Week 1 - 
 
+Web Dev :
+
+Dashboard - Containing the Catagories and microservices
+Canva link - https://www.canva.com/design/DAFdjA3Ls78/jTTeAEiPWdw7g8J_RQkCTA/edit?utm_content=DAFdjA3Ls78&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Android : 
+
+Same as above
+
+
+
+
+Cancer Data - https://data.world/adamhelsinger/cancer-rates-by-u-s-state
+GPS 
+Gyroscope
+Goggles for those who have impaired vison
+Ultra sonic sensor for hurdles
+Vibration patterns as signals
+Helmet 
+Translator
